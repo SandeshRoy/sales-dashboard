@@ -1,5 +1,10 @@
 # 📊 Sales & Revenue Analysis Dashboard
 
+## 🌐 Live Demo
+
+https://sales-dashboard-fxqtruvx7tdpgrr5vw5aqz.streamlit.app/
+
+
 ## 📌 Overview
 
 This project is an interactive data analytics dashboard built to analyze sales (revenue), profit trends, and overall business performance using a real-world retail dataset.
